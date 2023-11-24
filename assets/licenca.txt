@@ -1,0 +1,17 @@
+Licença de Uso do Software ICM - PowerPoint Translator
+
+1. Concessão de Licença: Este acordo concede ao usuário uma licença não exclusiva, intransferível e limitada para usar o software ICM - PowerPoint Translator, exclusivamente para fins autorizados.
+
+2. Uso Autorizado: O software destina-se à tradução de apresentações do PowerPoint criadas pela Igreja Cristã Maranata. O uso para outros propósitos é proibido e constitui violação dos termos desta licença.
+
+3. Direitos Autorais e Propriedade: O software é protegido por leis de direitos autorais e tratados internacionais. O usuário não deve modificar, distribuir, vender, descompilar ou criar obras derivadas baseadas no software.
+
+4. Isenção de Responsabilidade pelas Traduções: O desenvolvedor não se responsabiliza pela precisão ou adequação das traduções geradas pelo software. O usuário deve sempre revisar e validar as traduções geradas.
+
+5. Dependência de Serviços de Terceiros: O software utiliza serviços de tradução fornecidos pelo Google. Estes serviços podem estar sujeitos a interrupções ou descontinuação a critério do Google, sem responsabilidade do desenvolvedor do software.
+
+6. Sem Garantias: O software é fornecido "como está", sem garantias de qualquer tipo, expressas ou implícitas, incluindo, mas não se limitando a, garantias de comercialização ou adequação a um propósito específico.
+
+7. Limitação de Responsabilidade: O desenvolvedor não será responsável por quaisquer danos diretos, indiretos, incidentais, especiais ou consequenciais resultantes do uso ou da incapacidade de usar o software.
+
+8. Aceitação da Licença: O uso do ICM - PowerPoint Translator implica na aceitação total e incondicional dos termos e condições estabelecidos nesta licença.
