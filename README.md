@@ -1,8 +1,8 @@
 
-# PowerPoint Translator
+# ICM PowerPoint Translator
 
 ## Descrição
-O PowerPoint Translator é uma ferramenta desenvolvida para facilitar a tradução de apresentações do PowerPoint. Utilizando uma interface intuitiva, o aplicativo oferece uma maneira rápida e eficiente de traduzir slides de uma língua para outra, suportando diversos idiomas.
+O ICM PowerPoint Translator é uma ferramenta desenvolvida para facilitar a tradução de apresentações do PowerPoint. Utilizando uma interface intuitiva, o aplicativo oferece uma maneira rápida e eficiente de traduzir slides de uma língua para outra, suportando diversos idiomas.
 
 ## Características
 - Tradução automática de apresentações do PowerPoint.
@@ -11,7 +11,7 @@ O PowerPoint Translator é uma ferramenta desenvolvida para facilitar a traduç�
 - Geração de arquivos PowerPoint traduzidos.
 
 ## Instalação
-Para instalar o PowerPoint Translator, siga estes passos:
+Para instalar o ICM PowerPoint Translator, siga estes passos:
 
 ```bash
 git clone https://github.com/wallaceblaia/powerpoint-translator.git
